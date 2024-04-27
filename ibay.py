@@ -38,8 +38,11 @@ def get_categories(url, max_attempts=5):
     return []
 
 
-# Function to build the category structure
+#
 def build_category_structure(initial_categories):
+    """
+    Function to build the category structure
+    """
     final_categories = {}
     for category, id in initial_categories.items():
         logging.info(f"Processing {category}, ({id})")
@@ -90,7 +93,6 @@ def convert_empty_lists_to_strings(categories):
     return categories
 
 
-# Function to save the modified structure to a new file
 def save_modified_structure(categories, filename):
     """
     Saves the modified category structure to a new file.
