@@ -1,0 +1,569 @@
+{
+    "For Sale": [
+        {
+            "Antiques, Collectibles & Gifts": "Antiques, Collectibles & Gifts"
+        },
+        {
+            "Baby, Pregnancy & Maternity": [
+                "Bibs",
+                "Bottles",
+                "Breast Pumps",
+                "High Chairs",
+                "Plates, Bowels & Cups",
+                "Sterilisers & Food Warmers",
+                "Other"
+            ]
+        },
+        {
+            "Books & Magazines": [
+                "Activity & Colouring",
+                "Educational",
+                "Other"
+            ]
+        },
+        {
+            "Clothing & Accessories": [
+                "Boys",
+                "Girls",
+                "Costumes",
+                "School Accessories",
+                "Sunglasses",
+                "Watches",
+                "Footwear",
+                "Men Accessories",
+                "Men Clothing",
+                "Footwear",
+                "Women Accessories",
+                "Women Clothing",
+                "Backpacks",
+                "Briefcases",
+                "Gym Bags",
+                "Luggage & Travel Bags",
+                "Messenger Bags",
+                "School Bags",
+                "Travel Accessories",
+                "Umbrellas & Rain Wear",
+                "Waist Packs",
+                "Other"
+            ]
+        },
+        {
+            "Computer, Tablets & Networking": [
+                "Card Readers & USB Hubs",
+                "Drives & Storage",
+                "Graphics Cards",
+                "Keyboards, Mouse & Input Devices",
+                "Memory",
+                "Monitors",
+                "Motherboard",
+                "Power Supplies",
+                "Processor",
+                "Projectors",
+                "Sound Card",
+                "Speakers & Headphones",
+                "Webcams",
+                "Other Accessories",
+                "Battery",
+                "Carrying Cases and Bags",
+                "Charger",
+                "Cooling Pad",
+                "Power Adapter",
+                "Other",
+                "Modems",
+                "Routers & Switches",
+                "Servers",
+                "Wireless Networking",
+                "Other"
+            ]
+        },
+        {
+            "Dhoani, Boats & Fishing": [
+                "Dhoani",
+                "Dinghies & Bokkura",
+                "Jet Ski / PWC",
+                "Passenger & Safari Boats",
+                "Speedboat",
+                "Other Marine Vessels",
+                "Fish Finders",
+                "Fishing Line",
+                "Lures and Hooks",
+                "Reels",
+                "Rods",
+                "Rods and Reels",
+                "Vadhu Foshi",
+                "Other",
+                "Engines",
+                "Parts & Accessories",
+                "Anchors",
+                "Buoys & Fenders",
+                "Lifejackets ",
+                "Navigation Equipment",
+                "Propellers",
+                "Safety",
+                "Other"
+            ]
+        },
+        {
+            "Electronics": [
+                "Digital Camera",
+                "Binoculars & Telescopes",
+                "Camcorders",
+                "Camera Drone",
+                "Camera Accessories",
+                "Active Components",
+                "Passive Components",
+                "Home Improvement",
+                "Key Chain",
+                "Laser Pointers",
+                "Mini Projector",
+                "Power Saver",
+                "Surveillance",
+                "Universal Adaptor",
+                "Universal Remote",
+                "Other",
+                "DVD & CD Players",
+                "Hard Disk Players",
+                "Home Theater Systems",
+                "iPod & MP3 Accessories",
+                "iPod & MP3 Players",
+                "Speaker Systems",
+                "Other"
+            ]
+        },
+        {
+            "Furniture & Storage": [
+                "Beddings",
+                "Bedroom Sets",
+                "Beds",
+                "Dressing Table",
+                "Wardrobes",
+                "Other",
+                " Desks and Tables",
+                " Filing Cabinets",
+                "Bookshelves",
+                "Chairs",
+                "Conference Tables",
+                "Cubicles and Partitions",
+                "Other",
+                "Bean Bags",
+                "Chairs and Stools",
+                "Cupboards and Cabinets",
+                "Sofa Beds",
+                "Sofas",
+                "Tables",
+                "TV Racks",
+                "Hanging Storage",
+                "Hooks & Rails",
+                "Shoe Racks & Hangers",
+                "Storage Bags",
+                "Storage Baskets & Bins",
+                "Storage Bottles & Jars",
+                "Storage Boxes",
+                "Storage Cabinets",
+                "Storage Drawers",
+                "Styrofoam Box"
+            ]
+        },
+        {
+            "Health & Beauty": [
+                "Diabetes Care",
+                "Face Mask & Shield",
+                "First Aid & Medical Supplies",
+                "Hand Sanitizers",
+                "Insect Repellents",
+                "Massage & Relaxation",
+                "Sexual Wellness",
+                "Sleeping Aids",
+                "Other Healthcare",
+                "Eye",
+                "Face",
+                "Heena",
+                "Lip",
+                "Makeup Bags",
+                "Makeup Brushes",
+                "Makeup Removers",
+                "Makeup Sets & Kits",
+                "Nail",
+                "Other",
+                "Face Care",
+                "Feminine Care",
+                "Hair Care",
+                "Nail Care, Manicure & Pedicure",
+                "Oral Care",
+                "Shaving & Hair Removal",
+                "Skin Care",
+                "Other Personal Care",
+                "Contact Lens & Accessories",
+                "Eye Drops and Wash",
+                "Eyeglass Frames",
+                "Reading Glasses",
+                "Vision Magnifiers",
+                "Other Vision Care"
+            ]
+        },
+        {
+            "Home & Garden": [
+                "Sewing & Knitting",
+                "Basins & Vanities",
+                "Mirrors",
+                "Showers & Water Heaters",
+                "Soap Dishes & Dispensers",
+                "Toilets",
+                "Other",
+                "Airconditioners",
+                "Fans",
+                "Humidifiers",
+                "Other",
+                "Beverages",
+                "Cake & Pastry",
+                "Fruits",
+                "Local Specialties",
+                "Meat",
+                "Seafood",
+                "Vegetables",
+                "Other",
+                "Gardening Supplies",
+                "Plants and Trees",
+                "Other",
+                "Candles & Holders",
+                "Carpet",
+                "Clocks",
+                "Cushions",
+                "Flowers",
+                "Frames",
+                "Pictures & Paintings",
+                "Vases",
+                "Wallpaper & Stickers",
+                "Other",
+                "Cleaning",
+                "Laundry",
+                "Pest Control",
+                "Bakeware",
+                "Coffee & Tea Making",
+                "Cookware",
+                "Cups & Glasses",
+                "Cutlery & Utensils",
+                "Dinnerware & Serving Dishes",
+                "Kitchen Appliances",
+                "Knives & Cutting",
+                "Rice Cookers",
+                "Storage Containers",
+                "Tableware & Linen",
+                "Washing & Cleaning",
+                "Other",
+                "Chandeliers & Ceiling Fixtures",
+                "Lamps & Shades",
+                "Light Bulbs & Tubes",
+                "Outdoor Lighting",
+                "Portable Lighting",
+                "String & Novelty Lighting",
+                "Lighting Parts & Accessories"
+            ]
+        },
+        {
+            "Industrial & Business": [
+                "Aggregates",
+                "Bricks",
+                "Cement",
+                "Cladding",
+                "Doors and Windows",
+                "Electrical Supplies",
+                "Elevators and Lifts",
+                "Fire Systems",
+                "Flooring",
+                "Glass",
+                "Paint and Coatings",
+                "Roofing",
+                "Steel",
+                "Tiles / Marble / Granite",
+                "Timber and Wood",
+                "Other",
+                "Beverage Equipment",
+                "Cooking & Warming Equipment",
+                "Cookware & Kitchen Tools",
+                "Refrigertation & Ice Machines",
+                "Restaurant Furniture & Decor",
+                "Tabletop",
+                "Uniforms & Aprons",
+                "Vending Equipment & Concessions",
+                "Other",
+                "Display Units & Racks",
+                "Labeling & Tagging",
+                "Mannequins",
+                "Point of Sale",
+                "Other",
+                "Hand Tools",
+                "Power Tools",
+                "Other Tools & Equipment"
+            ]
+        },
+        {
+            "Mobile Phones & Accessories": [
+                "Belt Holsters & Clips",
+                "Car Accessories",
+                "Cases, Protection & Skins",
+                "Charger",
+                "Data Cable",
+                "Fashion and Decoration",
+                "Headset - Bluetooth",
+                "Headset - Wired",
+                "Memory Card",
+                "Power Bank",
+                "Screen Protection",
+                "Selfie Sticks & Stands",
+                "Smart Watches",
+                "Speakers",
+                "Other",
+                "Antenna ",
+                "Audio Jack",
+                "Battery",
+                "Button",
+                "Camera Modules",
+                "Charging Port",
+                "Ear Speaker",
+                "Flex Cable",
+                "Frame",
+                "Keypads",
+                "LCD Screen & Digitizer",
+                "Loud Speaker",
+                "Motherboard",
+                "Phone Cover / Housing",
+                "Tools",
+                "Vibration Motor",
+                "Other"
+            ]
+        },
+        {
+            "Motorcycle, Cars & Vehicles": [
+                "Battery",
+                "Brake Systems",
+                "Cover sets",
+                "Engine Parts",
+                "Exhaust",
+                "Lights and Electricals",
+                "Mirrors",
+                "Safety and Security",
+                "Suspension",
+                "Wheels and Parts",
+                "Other"
+            ]
+        },
+        {
+            "Pets and Pet Supplies": [
+                "Aquarium & Tanks",
+                "Cleaning & Maintenance",
+                "Filters",
+                "Fish & Aquatic Pets",
+                "Food",
+                "Lights & Bulbs",
+                "Plant & Decor",
+                "Pumps",
+                "Other Aquarium Accessories"
+            ]
+        },
+        {
+            "Sports, Fitness & Recreation": [
+                "Brass Instruments",
+                "Drums & Percussion",
+                "Guitars & String Instruments",
+                "Karaoke Entertainment",
+                "Piano, Keyboards & Organs",
+                "Recording Equipment",
+                "Stage Audio & Lighting",
+                "Wind & Woodwind Instruments",
+                "Other Musical Instruments & Accessories",
+                "Kick Scooters",
+                "Self Balancing Scooters",
+                "Skateboarding & Roller Skating",
+                "Badminton",
+                "Basketball",
+                "Football",
+                "Volleyball",
+                "Other Team Sports",
+                "Kites & Kitesurfing",
+                "SCUBA & Snorkelling",
+                "Surfing",
+                "Swimming",
+                "Wakeboarding & Waterskiing",
+                "Windsurfing",
+                "Other"
+            ]
+        },
+        {
+            "Stationery & Office Supplies": [
+                "Copiers",
+                "Fax Machines",
+                "Laminating",
+                "Shredders",
+                "Other"
+            ]
+        },
+        {
+            "Toys & Hobbies": [
+                "Drones",
+                "RC Airplanes",
+                "RC Boats",
+                "RC Cars & Trucks",
+                "RC Helicopters ",
+                "RC Other",
+                "Parts & Accessories"
+            ]
+        },
+        {
+            "Video & Computer Gaming": [
+                "Battery and Charger",
+                "Data and Power Cables",
+                "Game Controllers",
+                "Memory",
+                "Other"
+            ]
+        },
+        {
+            "Other Stuff": "Other Stuff"
+        }
+    ],
+    "Housing & Real Estate": [
+        {
+            "Apartments & Houses for Rent": "Apartments & Houses for Rent"
+        },
+        {
+            "Room for Rent": "Room for Rent"
+        },
+        {
+            "Guest Houses & Short Stay Accomodation": "Guest Houses & Short Stay Accomodation"
+        },
+        {
+            "Kudhin Baithibbaadhinun": "Kudhin Baithibbaadhinun"
+        },
+        {
+            "Land For Sale & Lease": "Land For Sale & Lease"
+        },
+        {
+            "Office & Commercial Space": "Office & Commercial Space"
+        },
+        {
+            "Roommates Wanted": "Roommates Wanted"
+        },
+        {
+            "International": "International"
+        }
+    ],
+    "Jobs": "Jobs",
+    "Services": [
+        {
+            "Architectural & Home Design": "Architectural & Home Design"
+        },
+        {
+            "Beauty, Sports and Wellness": "Beauty, Sports and Wellness"
+        },
+        {
+            "Business Services": "Business Services"
+        },
+        {
+            "Domestic Services": "Domestic Services"
+        },
+        {
+            "Event Services": "Event Services"
+        },
+        {
+            "Food Services": "Food Services"
+        },
+        {
+            "Healthcare Services": "Healthcare Services"
+        },
+        {
+            "Industrial": "Industrial"
+        },
+        {
+            "Rental Services": "Rental Services"
+        },
+        {
+            "Repairs, Maintenance & Household Work": "Repairs, Maintenance & Household Work"
+        },
+        {
+            "Tailoring": "Tailoring"
+        },
+        {
+            "Travel & Recreation": [
+                "Bicycle Rental",
+                "Ferry & Naalu Boat",
+                "Motorcycle Rental",
+                "Speedboat & Dhoani Rental",
+                "Taxi & Car Rental"
+            ]
+        },
+        {
+            "Tuition & Personal Development": "Tuition & Personal Development"
+        },
+        {
+            "Other Services": "Other Services"
+        }
+    ],
+    "Wanted": [
+        {
+            "Books and Magazines": "Books and Magazines"
+        },
+        {
+            "Clothing and Accessories": "Clothing and Accessories"
+        },
+        {
+            "Computer Laptop and Accessories": "Computer Laptop and Accessories"
+        },
+        {
+            "Electronics": "Electronics"
+        },
+        {
+            "Mobile Phones and Accessories": "Mobile Phones and Accessories"
+        },
+        {
+            "Motorcycles- Cars and Accessories": "Motorcycles- Cars and Accessories"
+        },
+        {
+            "Real Estate - Office Space and Commercial": "Real Estate - Office Space and Commercial"
+        },
+        {
+            "Real Estate - Rooms and Apartment": "Real Estate - Rooms and Apartment"
+        },
+        {
+            "Services": "Services"
+        },
+        {
+            "Sporting Goods": "Sporting Goods"
+        },
+        {
+            "Toys Kids and Hobbies": "Toys Kids and Hobbies"
+        },
+        {
+            "Other Stuff": "Other Stuff"
+        }
+    ],
+    "Business Opportunities": [
+        {
+            "Business for Sale": "Business for Sale"
+        },
+        {
+            "Websites for Sale": "Websites for Sale"
+        },
+        {
+            "Other": "Other"
+        }
+    ],
+    "Announcements & Events": [
+        {
+            "Announcements": "Announcements"
+        },
+        {
+            "Lost and Found": "Lost and Found"
+        },
+        {
+            "Promotions": "Promotions"
+        },
+        {
+            "Trade Exhibitions & Fairs": "Trade Exhibitions & Fairs"
+        },
+        {
+            "Other": "Other"
+        }
+    ],
+    "Free Stuff": "Free Stuff"
+}
