@@ -1,8 +1,6 @@
 {
     "For Sale": [
-        {
-            "Antiques, Collectibles & Gifts": "Antiques, Collectibles & Gifts"
-        },
+        "Antiques, Collectibles & Gifts",
         {
             "Baby, Pregnancy & Maternity": [
                 "Bibs",
@@ -418,71 +416,31 @@
                 "Other"
             ]
         },
-        {
-            "Other Stuff": "Other Stuff"
-        }
+        "Other Stuff"
     ],
     "Housing & Real Estate": [
-        {
-            "Apartments & Houses for Rent": "Apartments & Houses for Rent"
-        },
-        {
-            "Room for Rent": "Room for Rent"
-        },
-        {
-            "Guest Houses & Short Stay Accomodation": "Guest Houses & Short Stay Accomodation"
-        },
-        {
-            "Kudhin Baithibbaadhinun": "Kudhin Baithibbaadhinun"
-        },
-        {
-            "Land For Sale & Lease": "Land For Sale & Lease"
-        },
-        {
-            "Office & Commercial Space": "Office & Commercial Space"
-        },
-        {
-            "Roommates Wanted": "Roommates Wanted"
-        },
-        {
-            "International": "International"
-        }
+        "Apartments & Houses for Rent",
+        "Room for Rent",
+        "Guest Houses & Short Stay Accomodation",
+        "Kudhin Baithibbaadhinun",
+        "Land For Sale & Lease",
+        "Office & Commercial Space",
+        "Roommates Wanted",
+        "International"
     ],
     "Jobs": "Jobs",
     "Services": [
-        {
-            "Architectural & Home Design": "Architectural & Home Design"
-        },
-        {
-            "Beauty, Sports and Wellness": "Beauty, Sports and Wellness"
-        },
-        {
-            "Business Services": "Business Services"
-        },
-        {
-            "Domestic Services": "Domestic Services"
-        },
-        {
-            "Event Services": "Event Services"
-        },
-        {
-            "Food Services": "Food Services"
-        },
-        {
-            "Healthcare Services": "Healthcare Services"
-        },
-        {
-            "Industrial": "Industrial"
-        },
-        {
-            "Rental Services": "Rental Services"
-        },
-        {
-            "Repairs, Maintenance & Household Work": "Repairs, Maintenance & Household Work"
-        },
-        {
-            "Tailoring": "Tailoring"
-        },
+        "Architectural & Home Design",
+        "Beauty, Sports and Wellness",
+        "Business Services",
+        "Domestic Services",
+        "Event Services",
+        "Food Services",
+        "Healthcare Services",
+        "Industrial",
+        "Rental Services",
+        "Repairs, Maintenance & Household Work",
+        "Tailoring",
         {
             "Travel & Recreation": [
                 "Bicycle Rental",
@@ -492,78 +450,34 @@
                 "Taxi & Car Rental"
             ]
         },
-        {
-            "Tuition & Personal Development": "Tuition & Personal Development"
-        },
-        {
-            "Other Services": "Other Services"
-        }
+        "Tuition & Personal Development",
+        "Other Services"
     ],
     "Wanted": [
-        {
-            "Books and Magazines": "Books and Magazines"
-        },
-        {
-            "Clothing and Accessories": "Clothing and Accessories"
-        },
-        {
-            "Computer Laptop and Accessories": "Computer Laptop and Accessories"
-        },
-        {
-            "Electronics": "Electronics"
-        },
-        {
-            "Mobile Phones and Accessories": "Mobile Phones and Accessories"
-        },
-        {
-            "Motorcycles- Cars and Accessories": "Motorcycles- Cars and Accessories"
-        },
-        {
-            "Real Estate - Office Space and Commercial": "Real Estate - Office Space and Commercial"
-        },
-        {
-            "Real Estate - Rooms and Apartment": "Real Estate - Rooms and Apartment"
-        },
-        {
-            "Services": "Services"
-        },
-        {
-            "Sporting Goods": "Sporting Goods"
-        },
-        {
-            "Toys Kids and Hobbies": "Toys Kids and Hobbies"
-        },
-        {
-            "Other Stuff": "Other Stuff"
-        }
+        "Books and Magazines",
+        "Clothing and Accessories",
+        "Computer Laptop and Accessories",
+        "Electronics",
+        "Mobile Phones and Accessories",
+        "Motorcycles- Cars and Accessories",
+        "Real Estate - Office Space and Commercial",
+        "Real Estate - Rooms and Apartment",
+        "Services",
+        "Sporting Goods",
+        "Toys Kids and Hobbies",
+        "Other Stuff"
     ],
     "Business Opportunities": [
-        {
-            "Business for Sale": "Business for Sale"
-        },
-        {
-            "Websites for Sale": "Websites for Sale"
-        },
-        {
-            "Other": "Other"
-        }
+        "Business for Sale",
+        "Websites for Sale",
+        "Other"
     ],
     "Announcements & Events": [
-        {
-            "Announcements": "Announcements"
-        },
-        {
-            "Lost and Found": "Lost and Found"
-        },
-        {
-            "Promotions": "Promotions"
-        },
-        {
-            "Trade Exhibitions & Fairs": "Trade Exhibitions & Fairs"
-        },
-        {
-            "Other": "Other"
-        }
+        "Announcements",
+        "Lost and Found",
+        "Promotions",
+        "Trade Exhibitions & Fairs",
+        "Other"
     ],
     "Free Stuff": "Free Stuff"
 }

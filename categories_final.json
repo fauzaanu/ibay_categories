@@ -418,41 +418,23 @@
                 "Other"
             ]
         },
-        {
-            "Other Stuff": []
-        }
+        "Other Stuff"
     ],
     "Housing & Real Estate": [
-        {
-            "Apartments & Houses for Rent": []
-        },
-        {
-            "Room for Rent": []
-        },
-        {
-            "Guest Houses & Short Stay Accomodation": []
-        },
-        {
-            "Kudhin Baithibbaadhinun": []
-        },
-        {
-            "Land For Sale & Lease": []
-        },
-        {
-            "Office & Commercial Space": []
-        },
-        {
-            "Roommates Wanted": []
-        },
+        "Apartments & Houses for Rent",
+        "Room for Rent",
+        "Guest Houses & Short Stay Accomodation",
+        "Kudhin Baithibbaadhinun",
+        "Land For Sale & Lease",
+        "Office & Commercial Space",
+        "Roommates Wanted",
         {
             "International": []
         }
     ],
     "Jobs": [],
     "Services": [
-        {
-            "Architectural & Home Design": []
-        },
+        "Architectural & Home Design",
         {
             "Beauty, Sports and Wellness": []
         },
@@ -465,12 +447,8 @@
         {
             "Event Services": []
         },
-        {
-            "Food Services": []
-        },
-        {
-            "Healthcare Services": []
-        },
+        "Food Services",
+        "Healthcare Services",
         {
             "Industrial": []
         },
@@ -480,9 +458,7 @@
         {
             "Repairs, Maintenance & Household Work": []
         },
-        {
-            "Tailoring": []
-        },
+        "Tailoring",
         {
             "Travel & Recreation": [
                 "Bicycle Rental",
@@ -500,70 +476,30 @@
         }
     ],
     "Wanted": [
-        {
-            "Books and Magazines": []
-        },
-        {
-            "Clothing and Accessories": []
-        },
-        {
-            "Computer Laptop and Accessories": []
-        },
-        {
-            "Electronics": []
-        },
-        {
-            "Mobile Phones and Accessories": []
-        },
-        {
-            "Motorcycles- Cars and Accessories": []
-        },
-        {
-            "Real Estate - Office Space and Commercial": []
-        },
-        {
-            "Real Estate - Rooms and Apartment": []
-        },
-        {
-            "Services": []
-        },
-        {
-            "Sporting Goods": []
-        },
-        {
-            "Toys Kids and Hobbies": []
-        },
-        {
-            "Other Stuff": []
-        }
+        "Books and Magazines",
+        "Clothing and Accessories",
+        "Computer Laptop and Accessories",
+        "Electronics",
+        "Mobile Phones and Accessories",
+        "Motorcycles- Cars and Accessories",
+        "Real Estate - Office Space and Commercial",
+        "Real Estate - Rooms and Apartment",
+        "Services",
+        "Sporting Goods",
+        "Toys Kids and Hobbies",
+        "Other Stuff"
     ],
     "Business Opportunities": [
-        {
-            "Business for Sale": []
-        },
-        {
-            "Websites for Sale": []
-        },
-        {
-            "Other": []
-        }
+        "Business for Sale",
+        "Websites for Sale",
+        "Other"
     ],
     "Announcements & Events": [
-        {
-            "Announcements": []
-        },
-        {
-            "Lost and Found": []
-        },
-        {
-            "Promotions": []
-        },
-        {
-            "Trade Exhibitions & Fairs": []
-        },
-        {
-            "Other": []
-        }
+        "Announcements",
+        "Lost and Found",
+        "Promotions",
+        "Trade Exhibitions & Fairs",
+        "Other"
     ],
     "Free Stuff": []
 }

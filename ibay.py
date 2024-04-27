@@ -56,22 +56,27 @@ def build_category_structure(initial_categories):
                 logging.info(f"Processing {l1_sub_name}, ({l1_sub_id})")
                 level2_categories = get_categories(f"https://ibay.com.mv/index.php?page=cat_ajax&id={l1_sub_id}")
 
-                # Initialize the dictionary for the current level 2 category
-                level2_dict = {l1_sub_name: []}
+                # Check if level 2 category has any level 3 categories
+                if level2_categories:
+                    # Initialize the dictionary for the current level 2 category
+                    level2_dict = {l1_sub_name: []}
 
-                for l2_item in level2_categories:
-                    for l2_sub_id, l2_sub_name in l2_item.items():
-                        logging.info(f"Processing {l2_sub_name}, ({l2_sub_id})")
-                        level3_categories = get_categories(
-                            f"https://ibay.com.mv/index.php?page=cat_ajax&id={l2_sub_id}")
+                    for l2_item in level2_categories:
+                        for l2_sub_id, l2_sub_name in l2_item.items():
+                            logging.info(f"Processing {l2_sub_name}, ({l2_sub_id})")
+                            level3_categories = get_categories(
+                                f"https://ibay.com.mv/index.php?page=cat_ajax&id={l2_sub_id}")
 
-                        # Append level three categories as strings directly to the list under the level 2 category
-                        for l3_item in level3_categories:
-                            for l3_sub_id, l3_sub_name in l3_item.items():
-                                level2_dict[l1_sub_name].append(l3_sub_name)
+                            # Append level three categories as strings directly to the list under the level 2 category
+                            for l3_item in level3_categories:
+                                for l3_sub_id, l3_sub_name in l3_item.items():
+                                    level2_dict[l1_sub_name].append(l3_sub_name)
 
-                # Add the level 2 category dictionary to the level 1 category list
-                final_categories[category].append(level2_dict)
+                    # Add the level 2 category dictionary to the level 1 category list
+                    final_categories[category].append(level2_dict)
+                else:
+                    # If level 2 category does not have any level 3 categories, add it as a string
+                    final_categories[category].append(l1_sub_name)
 
     return final_categories
 
@@ -85,11 +90,16 @@ def convert_empty_lists_to_strings(categories):
         if not level1_items:
             categories[category] = category  # Replace the empty list with the level 1 name
         else:
-            for level1_item in level1_items:
-                for level2_name, level2_items in level1_item.items():
-                    # Check if the list of level 2 items is empty
-                    if not level2_items:
-                        level1_item[level2_name] = level2_name  # Replace the empty list with the level 2 name
+            for index, level1_item in enumerate(level1_items):
+                # Check if the item is a dictionary (level 2 category)
+                if isinstance(level1_item, dict):
+                    for level2_name, level2_items in level1_item.items():
+                        # Check if the list of level 2 items is empty
+                        if not level2_items:
+                            level1_items[index] = level2_name  # Replace the empty list with the level 2 name
+                else:
+                    # If the item is a string (level 2 category without level 3 categories), leave it as is
+                    pass
     return categories
 
 
